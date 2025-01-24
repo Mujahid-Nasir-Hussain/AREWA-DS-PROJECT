@@ -28,6 +28,3 @@ plt.show()
 # Scatter Plot (Interactive)
 fig = px.scatter(data, x=data.index, y='Value', color='Category', title='Scatter Plot of Values')
 fig.show()
-plt.savefig('plots/Figure_1.png')  # Save figure to the 'plots' folder
-![alt text](../venv/Figure_2.png)
-venv/Figure_2.png
