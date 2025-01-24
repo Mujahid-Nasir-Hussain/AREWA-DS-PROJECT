@@ -14,3 +14,4 @@ plt.ylabel('Y-axis')
 # Save the plot as a file
 plt.savefig('Figure_2.png')  # Save in the current working directory
 plt.close()  # Close the figure
+https://github.com/user-attachments/assets/3ceaa6da-90ce-4203-953a-f02bf3b5fafb
