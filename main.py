@@ -29,3 +29,5 @@ plt.show()
 fig = px.scatter(data, x=data.index, y='Value', color='Category', title='Scatter Plot of Values')
 fig.show()
 ![image](https://github.com/user-attachments/assets/795c2680-a75d-48ae-ac38-fbe87429430a)
+![image](https://github.com/user-attachments/assets/e6babc58-0a33-4967-b6c0-d27a56504501)
+
